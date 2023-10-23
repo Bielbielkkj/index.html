@@ -1,21 +1,43 @@
-MIT License
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+     <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CORITIBA MAIOR DO SUL</title>
+    <link rel="stylesheet" href="">
+</head>
 
-Copyright (c) 2023 Bielbielkkj
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+<body>
+   <header>
+       <nav>
+    <a href="index.html"> home </a>
+<a href="produtos.html"> produtos </a>
+        <a href="https:https://www.youtube.com/watch?v=KDVfcUyOJlw"> tour pelo couto pereira </a>
+        </nav>
+  <p class="coritiba"> CORITIBA<em> FUTEBOL CLUB</em> </p>
+<p class="brilho"> parágrafo 2 conteúdo escrito CADA PARÁGRAFO DEVE SER ABERTO E FECHADO</p>
+    
+    <h2> TÍTULO DOIS </h2>
+<p> parágrafo 3 conteúdo escrito NÃO ESQUECER DE SEMPRE DEIXAR OS MARCADORES H1 E P DENTRO DO BODY, OU SEJA, ACIMA DO SEU FECHAMENTO E ABAIXO DA SUA ABERTURA </p>
+<p> <strong> parágrafo 4 com conteúdo escrito em negrito, SE QUISER PODE SER APENAS UMA FRASE OU PALAVRA EM NEGRITO </strong> </p>
+    
+    <h1>coritiba futebol club</h1>
+    <ul>
+        <li> 
+            <h2>couto pereira</h2>
+            <img src="https://images.app.goo.gl/bi2CLxxAY91ivYSp6">
+            <p>melhor estadio de cwb</p>
+        </li>
+        <li> <h2> idolos</h2>
+            <img src="https://images.app.goo.gl/Wm17s8bWNt4VKUWe8">
+            <p> jogadores que fizeram "historia"</p>
+        </li>
+        <li> <h2>titulos</h2>
+            <img src="https://images.app.goo.gl/RRimK83znMW6TxCPA">
+            <p>42 titulos ao total</p>
+        </li>
+        </ul>
+    
+</body>
+</html>
